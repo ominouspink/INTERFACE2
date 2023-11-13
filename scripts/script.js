@@ -31,3 +31,7 @@ import{ attack} from './acties.js';
 //mijn cookies doen het niet goed in javascript :( ik ga een docent een keer om hulp vragen denk ik xd
 
 //de gebruiker word standaard avonturier genoemd
+
+
+
+

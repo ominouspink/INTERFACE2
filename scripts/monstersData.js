@@ -1,0 +1,1 @@
+export const monsters = ["aruthmamek", "creature", "sunflower", "daisy"];
